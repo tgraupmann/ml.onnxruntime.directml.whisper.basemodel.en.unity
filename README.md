@@ -1,6 +1,10 @@
 # Whisper Base EN (OnnxRuntime/DirectML) for Unity
 
-https://assetstore.unity.com/packages/slug/352346
+Unity Asset Store - https://assetstore.unity.com/packages/slug/352346
+
+Video Demo
+
+<a target="_blank" href="https://www.youtube.com/watch?v=R8gYhdzmDpc"><img src="https://img.youtube.com/vi/R8gYhdzmDpc/0.jpg"/></a>
 
 OpenAI Whisper is an automatic speech recognition (ASR) model trained on diverse audio; it transcribes speech to text for English. This package bundles the base English variant for lightweight, offline transcription on Windows.
 
